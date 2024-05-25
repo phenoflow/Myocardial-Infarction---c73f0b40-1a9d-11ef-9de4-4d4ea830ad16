@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/lateral-myocardial-infarction---secondary.py
+inputModule3:
+  class: File
+  path: python/myocardial-infarction-specified---secondary.py
+inputModule4:
+  class: File
+  path: python/anterolateral-myocardial-infarction---secondary.py
+inputModule5:
+  class: File
+  path: python/myocardial-infarction-anterior---secondary.py
+inputModule6:
+  class: File
+  path: python/myocardial-infarction-inferoposterior---secondary.py
+inputModule7:
+  class: File
+  path: python/myocardial-infarction-inferior---secondary.py
+inputModule8:
+  class: File
+  path: python/subendocardial-myocardial-infarction---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
